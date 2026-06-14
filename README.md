@@ -57,7 +57,7 @@ The core analytics layer queries a highly optimized relational table named `sala
 
 ### 1. Clone the Architecture
 ```bash
-git clone [https://github.com/SunbalAzizLCWU/salary-trends-dashboard.git](https://github.com/SunbalAzizLCWU/salary-trends-dashboard.git)
+git clone [https://github.com/engrmaziz/salary-trends-dashboard.git](https://github.com/engrmaziz/salary-trends-dashboard.git)
 cd salary-trends-dashboard
 
 ```
